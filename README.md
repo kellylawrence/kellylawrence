@@ -5,4 +5,4 @@ I currently work at [BeyondTrust](https://www.beyondtrust.com/) as a Front-End S
 
 In my spare time, I pretend to be a [professional photographer](https://www.instagram.com/probably.batman/), [record videos](https://www.youtube.com/c/KellyLawrence-Master-of-the-Universe) of myself playing video games poorly, create [digital animations](https://vimeo.com/kellylawrence) in After Effects, and record [short musical pieces](https://soundcloud.com/kellylawrence) on guitar.
 
-[Gists](https://gist.github.com/kellylawrence) | [CodePen](https://codepen.io/kellylawrence) | [Novatoban](https://novatoban.ca/)
+[Gists](https://gist.github.com/kellylawrence) | [CodePen](https://codepen.io/kellylawrence)
